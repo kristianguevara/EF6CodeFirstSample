@@ -1,0 +1,9 @@
+C:\Users\Xtian\Source\Workspaces\SentiHealth\SentiHealth\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\Xtian\Source\Workspaces\SentiHealth\SentiHealth\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\Xtian\Source\Workspaces\SentiHealth\SentiHealth\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Xtian\Source\Workspaces\SentiHealth\SentiHealth\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Xtian\Source\Workspaces\SentiHealth\SentiHealth\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Xtian\Source\Workspaces\SentiHealth\SentiHealth\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Xtian\Source\Workspaces\SentiHealth\SentiHealth\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Xtian\Source\Workspaces\SentiHealth\SentiHealth\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\Xtian\Source\Workspaces\SentiHealth\SentiHealth\CodeFirst\obj\Debug\CodeFirst.pdb
